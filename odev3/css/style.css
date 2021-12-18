@@ -1,0 +1,50 @@
+  .content{
+    padding: 20px 10px 10px 30px;
+    overflow: scroll;
+    height: 300px;
+  }
+  .makala{
+    padding: 20px 10px 10px 30px;
+    overflow: scroll;
+    height: 400px;
+  }
+  .allmenu{
+    overflow: scroll;
+    height: 450px;
+  }
+  #leftpane{
+    padding: 20px 10px 5px 30px;
+  }
+  #leftpane > ul{
+    list-style: none;
+    }
+  #leftpane  a{
+    text-decoration: none;
+    font-family:  "Verdana", "Arial", "Helvetica", sans-serif;
+  }
+  #slideimg{
+    height: 400px;
+    width: 100%;
+  }
+  #rightpane{
+    font-size: 15px;
+  }
+  #rightpane > li{
+    margin-top: 15px;
+    list-style: none;
+    }
+  #rightpane  a{
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    font-family:  "Goudy Bookletter 1911", sans-serif;
+  }
+  #rightpane a:hover {
+    color: red;
+    background-color: #dae0e0;
+    border-radius: 5px;
+  }
+
+  #footer{
+    font-family: "Times New Roman", "Cursive", serif;
+  }
